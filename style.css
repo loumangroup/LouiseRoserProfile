@@ -12,14 +12,14 @@ html, body {
   margin: 40px auto;
 }
 
-#details {
-  background: #f4e285
-  margin: 40px auto;
-}
-
 #headshot {
   width: 2px auto;
   float: left;
+}
+
+#details {
+  background: #f4e285
+  margin: 40px auto;
 }
 
 #name h1 {
