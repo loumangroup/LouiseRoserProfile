@@ -1,7 +1,7 @@
 html, body {
   background: #9a031e;
   font-family: 'Bahnschrift', 'Ebrima' , sans-serif;
-  font-size: 16px;
+  font-size: 2px;
   color: white;
 }
 
@@ -29,5 +29,11 @@ html, body {
 
 #name h2 {
   font-family: 'Malgun Gothic', sans-serif;
-  font-size: 6em;
+  font-size: 10em;
+}
+
+#contacts p {
+  font-family: 'Calibri Light', sans-serif;
+  font size: 1em;
+
 }
