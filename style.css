@@ -22,7 +22,12 @@ html, body {
   float: left;
 }
 
-#name {
+#name h1 {
   font-family: 'Malgun Gothic', sans-serif;
   font-size: 15em;
+}
+
+#name h2 {
+  font-family: 'Malgun Gothic', sans-serif;
+  font-size: 6em;
 }
