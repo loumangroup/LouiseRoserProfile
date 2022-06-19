@@ -1,44 +1,164 @@
 html, body {
-  background: #9a031e;
+  background: #8cb369;
   font-family: 'Bahnschrift', 'Ebrima' , sans-serif;
-  font-size: 10px;
-  color: white;
+  font-size: 16px;
+  color: #ffe1a8;
 }
+
+a:link, a:visited {
+  color: #f5d2d8;
+}
+
+a:hover, a:active {
+    color: #8cb369;
+}
+.clear {clear: both;}
 
 #website {
   width: 90%;
-  max-width: 8000px;
-  background: #e36414;
+  max-width: 800px;
+  background: #7d5a5a;
   margin: 40px auto;
+  padding-bottom:20px;
 }
 
-#headshot img{
-  width: 25%;
-  margin: 40 px auto;
-  float: right;
-  width: 25%;
-}
-
-#details {
-  background: #f4e285;
-  margin: 40px auto;
+#headshot {
+  width: 20%;
   float: left;
-  width: 72.5%;
+  margin: 30px;
 }
+#headshot img{
+  width: 100%;
+  max-width: 300px;
+}
+
 
 #name h1 {
-  font-family: 'Calibri Light', sans-serif;
-  font-size: 15em;
-  float: left
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 4em;
+  float: right;
+  width: 72.5%;
+  color: #f4e285;
+  margin-bottom: -10px;
+  margin-top: 40px;
 }
 
 #name h2 {
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 4em;
+  float: right;
+  width: 72.5%;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+#contacts {
   font-family: 'Calibri Light', sans-serif;
-  font-size: 10em;
+  float: right;
+  width: 72.5%;
 }
 
 #contacts p {
-  font-family: 'Calibri Light', sans-serif;
-  font size: 1em;
+  font-size:1em;
+  line-height: 5px;
+}
 
+
+.SectionHead {
+  font-family: "Bahnschrift", sans-serif;
+  font-size: 20px;
+  color: #c9cba3;
+  border-top: solid;
+  border-left: solid;
+  padding-left: 20px;
+  border-top-left-radius: 25px;
+  border-width: thick;
+  border-color:#f2c078;
+  margin-top:10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+}
+
+.SectionParagraph{
+  font-family: "Calibri Light", sans-serif;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 10px;
+  text-indent:5px;
+}
+.Test h2{
+  font-family: 'Ebrima', sans-serif;
+  font-size: 18px;
+}
+.Test h3{
+  font-family: 'Ebrima', sans-serif;
+  font-size: 16px;
+  margin-top:-6px;
+}
+.Test h4{
+  font-family: 'Ebrima', sans-serif;
+  font-size: 12px;
+  margin-top: -6px;
+}
+.Test{
+  float: left;
+  width: 25%;
+}
+
+.results{
+  float: right;
+  width:72.5%;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  border-left: solid;
+  border-color: #f4e285;
+  padding-left: 15px
+}
+
+.ArticleHead{
+font-family: 'Ebrima', sans-serif;
+font-size: 12px;
+margin-left: 50px;
+margin-bottom:-10px;
+}
+
+.Features{
+  margin-left:40px;
+  margin-right:60px;
+
+}
+
+.HEADING{
+  font-family: 'Ebrima', sans-serif;
+  font-style: italic;
+  font-size: 14px;
+  margin-left: 20px;
+  margin-bottom:-10px;
+}
+
+.Descriptions{
+   font-family: 'Ebrima', sans-serif;
+   font-style:normal;
+}
+
+.ResultsParagraph{
+  font-family: "Calibri Light", sans-serif;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 10px;
+  text-indent:5px;
+}
+
+#references h1{
+  font-family: 'Ebrima', sans-serif;
+  font-size:16px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#references p{
+  font-family: 'Ebrima', sans-serif;
+  font-size:12px;
+  margin-left: 10px;
 }
