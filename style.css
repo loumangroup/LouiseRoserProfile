@@ -7,14 +7,14 @@ html, body {
 
 #website {
   width: 90%;
-  max-width: 800px;
+  max-width: 10000px;
   background: #e36414;
   margin: 40px auto;
 }
 
-#headshot {
-  width: 2px auto;
-  float: left;
+#headshot img{
+  width: 20%
+  float: right;
 }
 
 #details {
