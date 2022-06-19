@@ -9,5 +9,9 @@ html, body {
   width: 90%;
   max-width: 800px;
   background: #e36414;
-  margin: 40px;
+  margin: 40px auto;
+}
+
+#headshot {
+  width: 10%;
 }
