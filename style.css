@@ -13,8 +13,11 @@ html, body {
 }
 
 #headshot img{
-  width: 20%;
-  float: right;
+  width: 100%;
+}
+
+#headshot {
+  float:right 25%;
 }
 
 #details {
@@ -25,6 +28,7 @@ html, body {
 #name h1 {
   font-family: 'Malgun Gothic', sans-serif;
   font-size: 15em;
+  float: left
 }
 
 #name h2 {
