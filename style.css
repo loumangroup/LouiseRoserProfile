@@ -2,7 +2,7 @@ html, body {
   background: #9a031e;
   font-family: Avantgarde, "TeX Gyre Adventor", "URW Gothic L", sans-serif;
   font-size: 16px;
-  color: #fb8b24;
+  color: white;
 }
 
 #website {
@@ -14,4 +14,5 @@ html, body {
 
 #headshot {
   width: 10% auto;
+  float: left;
 }
